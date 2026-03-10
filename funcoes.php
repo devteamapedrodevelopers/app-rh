@@ -1,2 +1,4 @@
 <?php
-	echo "Este eh um arquivo php";
+	function saudar(): void {
+		echo "Ola!!";
+	}
