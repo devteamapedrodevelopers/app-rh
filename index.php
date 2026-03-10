@@ -1,2 +1,3 @@
 <?php
-	echo "Ola, mundo!";
+	$nome = "Ana";
+	echo "Ola, $nome!";
