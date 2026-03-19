@@ -2,6 +2,6 @@
 	require "function.php";
 
 	$nome = "Ana";
-	echo "Ola, $nome!";
+	// echo "Ola, $nome!";
 
-	saudar();
+	saudar($nome);
