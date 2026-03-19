@@ -1,5 +1,6 @@
 <?php
-	$nome = "Ana";
-	echo "Ola, $nome!";
+	require __DIR__ . "/funcoes.php";
 
-	saudar();
+	$nomeVizinho = "Ana";
+
+	saudar($nomeVizinho);
